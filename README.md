@@ -101,4 +101,4 @@ By working through this notebook, you will learn:
 ### Option 2: Run Locally
 1. Clone the repository:
    ```bash
-   https://github.com/Ravi598-lenovo/Pandas_Data_Cleaning_-_Transformation.git
+   git clone https://github.com/Ravi598-lenovo/Pandas_Data_Cleaning_-_Transformation.git
